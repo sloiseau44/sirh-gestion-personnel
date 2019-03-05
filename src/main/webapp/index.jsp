@@ -1,5 +1,5 @@
 <html>
-<body>
-<h2>Pouet!</h2>
-</body>
+	<body>
+		<h2>Pouet!</h2>
+	</body>
 </html>
